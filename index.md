@@ -1,3 +1,5 @@
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="pyephyoeaung" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mm.linkedin.com/in/pyephyoeaung?trk=profile-badge">Pye Phyoe Aung</a></div>
+              
 <!-- ## Portfolio
 
 ---

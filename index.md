@@ -1,8 +1,7 @@
+Here is my LinkedIn badge:
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="pyephyoeaung" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mm.linkedin.com/in/pyephyoeaung?trk=profile-badge">Pye Phyoe Aung</a></div>
-              
+{{ site.linkedin_badge }}
+</code><button class="copy-code-button" style="position: absolute; top: 1px; right: 1px; padding: 3px; display: none; background-color: white; color: rgb(49, 62, 78); border-radius: 5px; border: 2px solid rgb(204, 204, 204);">Copy</button>
               
 <!-- ## Portfolio
 

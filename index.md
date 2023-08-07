@@ -1,7 +1,6 @@
 Here is my LinkedIn badge:
 
 {{ site.linkedin_badge }}
-</code><button class="copy-code-button" style="position: absolute; top: 1px; right: 1px; padding: 3px; display: none; background-color: white; color: rgb(49, 62, 78); border-radius: 5px; border: 2px solid rgb(204, 204, 204);">Copy</button>
               
 <!-- ## Portfolio
 

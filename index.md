@@ -1,7 +1,7 @@
-Here is my LinkedIn badge:
+<!-- Here is my LinkedIn badge:
 
 {{ site.linkedin_badge }}
-              
+               -->
 <!-- ## Portfolio
 
 ---
